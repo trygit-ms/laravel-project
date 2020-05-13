@@ -29,6 +29,9 @@ Route::get('reporting', function () {
 
 Route::resource('report', 'ReportController');
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
