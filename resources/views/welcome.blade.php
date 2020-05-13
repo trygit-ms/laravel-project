@@ -81,7 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+
+
+                    This is Laravel 7.x
+
+
                 </div>
 
                 <div class="links">
