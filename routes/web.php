@@ -22,5 +22,13 @@ Route::get('about', function() {
 });
 
 Route::get('reporting', function () {
-    return "Reporting feature";
+    return "Reporting feature done";
 });
+<<<<<<< Updated upstream
+=======
+
+Route::resource('report', 'ReportController');
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
